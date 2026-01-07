@@ -31,8 +31,6 @@ An interactive Power BI dashboard was developed to:
 - Compare conversion trends by product category and device type
 - Enable drill-down analysis for leakage identification
 
-Screenshots of key dashboard views are available in the `/screenshots` directory.
-
 ## Tools & Technologies
 - SQL (Funnel modeling, KPI computation)
 - Power BI (Dashboarding & visualization)
